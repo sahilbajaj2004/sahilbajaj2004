@@ -1,5 +1,12 @@
-# 💫 About Me:
-🔭 I'm a BCA student & tech enthusiast.<br>🌱 learning and Creating full stack MERN web apps.<br>😎 I'm Passionate about Full stack development and Python development.<br>⚡Nothing is permanent.<br>
+# Hey! 👋
+Hey, I’m Sahil bajaj! I believe building the web is a team sport. Whether I’m automating workflows or shipping pixel-perfect UIs, I’m all about working together to make software that just feels right.
+
+These days, I get fired up about:
+
+🤖 software automation that frees up brainspace for the good stuff
+🕸 turning ideas into web apps/tools people actually enjoy using
+⚡ web performance—because milliseconds matter
+🌐 open source, for the love of giving backbr>
 
 
 ## 🌐 Socials:
