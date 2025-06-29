@@ -6,7 +6,7 @@ These days, I get fired up about:
 🤖 software automation that frees up brainspace for the good stuff
 🕸 turning ideas into web apps/tools people actually enjoy using
 ⚡ web performance—because milliseconds matter
-🌐 open source, for the love of giving backbr>
+🌐 open source, for the love of giving back<br>
 
 
 ## 🌐 Socials:
