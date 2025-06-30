@@ -1,8 +1,5 @@
 <p align="center"><a href=""><img width="80%" alt="Hello, I'm Sahil bajaj. I do open source!" src="./gh-rm-hd.png" /></a></p> <br/>
-I’m Sahil bajaj! I believe building the web is a team sport. Whether I’m automating workflows or shipping pixel-perfect UIs, I’m all about working together to make software that just feels right. <br>
-
-
-These days, I get fired up about:
+I’m Sahil bajaj! I believe building the web is a team sport. Whether I’m automating workflows or shipping pixel-perfect UIs, I’m all about working together to make software that just feels right.These days, I get fired up about:
 
 🤖 software automation that frees up brainspace for the good stuff<br>
 🕸 turning ideas into web apps/tools people actually enjoy using<br>
