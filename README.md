@@ -2,6 +2,8 @@
 I’m Sahil bajaj! I believe building the web is a team sport. Whether I’m automating workflows or shipping pixel-perfect UIs, I’m all about working together to make software that just feels right.
 
 
+
+
 These days, I get fired up about:
 
 🤖 software automation that frees up brainspace for the good stuff<br>
