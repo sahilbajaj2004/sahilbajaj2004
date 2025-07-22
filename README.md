@@ -7,7 +7,7 @@ These days, I get fired up about:
 - 🤖 software automation that frees up brainspace for the good stuff  
 - 🕸 turning ideas into web apps/tools people actually enjoy using  
 - ⚡ web performance—because milliseconds matter  
-- 🌐 open source, for the love of giving back
+- 🌐 open source, for the love of giving backkhzxjhcga
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sahilbajaj2004) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sahilbajaj2004) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sahilbajaj0941@gamil.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bajaj.jsx)
