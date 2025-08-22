@@ -16,4 +16,4 @@ These days, I get fired up about:
 ![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,python,c,cpp,java,react,nextjs,tailwind,aws,mongodb,nodejs,express,firebase,figma,postman,vercel,netlify)
 
 ## 💰 You can help me by Donating
-<p><a href="https://paypal.me/sahilbajaj0941"><img src="./paypal.png" /></a></p>
+<p><a href="https://paypal.me/sahilbajaj0941"><img width="35px" src="./paypal.png" /></a></p>
