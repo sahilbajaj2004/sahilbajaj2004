@@ -13,7 +13,7 @@ These days, I get fired up about:
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/sahilbajaj2004) [![My Skills](https://skillicons.dev/icons?i=twitter)](https://x.com/sahilbajaj2004) [![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:sahilbajaj0941@gamil.com) [![My Skills](https://skillicons.dev/icons?i=instagram)](https://instagram.com/bajaj.jsx)
 
 # 💻 Tech Stack:
-![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,python,c,cpp,java,react,nextjs,tailwind,aws,mongodb,nodejs,express,firebase,figma,postman,vercel,netlify)
+![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,python,c,cpp,java,react,nextjs,tailwind,aws,mongodb,nodejs,nestjs,express,firebase,figma,postman,vercel,netlify)
 
 ## 💰 You can help me by Donating
 <p><a href="https://paypal.me/sahilbajaj0941"><img width="35px" src="./paypal.png" /></a></p>
