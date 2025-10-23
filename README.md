@@ -4,7 +4,7 @@ Hey, I’m Sahil bajaj! I believe building the web is a team sport. Whether I’
 <br />
 
 These days, I get fired up about:
-- 🤖 software automation that frees up brainspace for the good stuff  
+- 🤖 software automation that frees up brainspace for the good stuff   
 - 🕸 turning ideas into web apps/tools people actually enjoy using  
 - ⚡ web performance—because milliseconds matter  
 - 🌐 open source, for the love of giving backkhzxjhcga
