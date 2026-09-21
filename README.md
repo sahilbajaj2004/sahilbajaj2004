@@ -37,7 +37,7 @@ These days, I get fired up about:
 
 **Databases**
 
-![Databases](https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase)
+![Databases](https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase,firebase)
 
 **Tools and Cloud**
 
