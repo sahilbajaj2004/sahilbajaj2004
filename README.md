@@ -25,7 +25,7 @@ These days, I get fired up about:
 
 **Frontend**
 
-![Frontend](https://skillicons.dev/icons?i=react,reactnative,nextjs,tailwind)
+![Frontend](https://skillicons.dev/icons?i=react,nextjs,tailwind)
 
 **Backend: JS/TS**
 
